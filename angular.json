@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "book-store"
+    }
+  },
+  "defaultProject": "book-store",
+  "cli": {
+    "analytics": "67af25f1-83ca-417d-b33f-8eeb9ae9c9e3"
+  }
 }
